@@ -987,7 +987,7 @@ int main()
 
 
     //**************************************Parameters Setting(Start)******************************************/
-    int filter_core = 5;
+    int filter_core = 3;
     int gray_temp = 4;   // lowest intensity
     float Depth_start = 500;  // DOF start
     float Depth_end = 800;  // DOF end
